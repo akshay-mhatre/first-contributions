@@ -143,6 +143,7 @@ Rich Herbert
   [Zach Chen](https://github.com/02zchen)
   [kostaslib](https://github.com/kostaslib)
 - [Kingsjo1](https://github.com/Kingsjo1)
+- [Akshay Mhatre](https://github.com/akshay-mhatre)
 - [Sebastian Alcantara](https://github.com/sebastian-alcantara)
 - [Prateek](https://github.com/prateekroy)
 - [Nick Dean](https://github.com/klick5000)
@@ -570,7 +571,6 @@ Patrizia Trammell
 - [wlung](https://github.com/wlung)
 - [Anuj Kharbanda] (https://github.com/Anuj2711)
 - [Akshay Solanki](https://github.com/AkshayS96)
-- Tech Performer
 - [imbassi][https://github.com/imbassi]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
 - [Mr_Patcher] (https://github.com/Mr-Patcher)
