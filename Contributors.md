@@ -1387,6 +1387,7 @@ Patrizia Trammell
 - [Darius Chandra](https://github.com/DariusChandra/first-contributions)
 - [megfh](https://github.com/megfh)
 - [NiteshNanda](https://github.com/niteshnanda)
+- [MayankMandhani](https://github.com/MayankMandhani)
 - [AnirithP](https://github.com/anirithp)
 - [chakradar](https://github.com/chakradar)
 - [Nancy Lubalo](https://github.com/nancylubalo)
