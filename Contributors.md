@@ -2520,6 +2520,7 @@ Bakht Jamal Sukhera
 - [Omar Gazimagomedov](https://github.com/omar-g)
 - [James Courcelle](https://github.com/JamesCourcelle)
 - [Pavel Rodionoff](https://github.com/Rodionoff)
+- [Kabiir Kohli](https://github.com/kabiir)
 - [Federico Pasqua](https://github.com/eisterman)
 - [Benson M](https://github.com/bensonma)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
