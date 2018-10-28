@@ -2240,6 +2240,7 @@ Patrizia Trammell
 - [Jason Secrest](https://github.com/jsecrest)
 - [Shashi Srinath](https://github.com/profghost)
 - [Amaka Mbah](https://github.com/devsisi)
+- [Kabiir Kohli](https://github.com/kabiir)
 - [z5112750](https://github.com/z5112750)
 - [Kurt Neaderhiser](https://github.com/KurtN91)
 - [Andrus N](https://github.com/andrus14)
